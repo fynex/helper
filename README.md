@@ -13,5 +13,7 @@ copy it to your clipboard **without** your mouse!
 
 * cp sclip.py /usr/bin/sclip
 
+* chmod +x /usr/bin/sclip
+
 ## Usage
 cat FILE | sclip
